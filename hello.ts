@@ -1,1 +1,1 @@
-console.log(123);
+let num:number=123
