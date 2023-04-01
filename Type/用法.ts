@@ -1,4 +1,4 @@
-function identify<T>(id: T): T {
+export function identify<T>(id: T): T {
     console.log(id);
     return id
 
