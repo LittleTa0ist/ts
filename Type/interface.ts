@@ -10,4 +10,4 @@ function identify<T, U>(key: T, value: U): Identites<T, U> {
     return id
 }
 
-console.log(123,'pzx');
+
